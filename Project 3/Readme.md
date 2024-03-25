@@ -3,7 +3,7 @@ Instructor, Jagannadha Chidella
 CSC 130, Section #01
 6/24/2018
 
----------------------------------------------------------------------------READ_ME------------------------------------------------------------------------------------------------
+# README
 
 1. Who is in your group?
 A. I'm working alone in this project.
